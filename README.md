@@ -2,7 +2,7 @@
 
 This repository contains code examples to use in learning Android Studio's Debugger tool.
 
-If you haven’t already, you should Fork and Clone this repo in order to complete the tutorial.
+If you haven’t already, you should **Fork** and **Clone** this repo in order to complete the tutorial.
 
 ## How to start the project
 
@@ -26,7 +26,7 @@ In this task you'll get an introduction to the debugger in Android Studio, and l
 
 ## What to do
 
-The app contains 5 errors that you will need to find and fix using the Debugger.
+The app contains 4 errors that you will need to find and fix using the Debugger.
 
 When you are done finding and fixing the errors, commit your changes and push them back up to your forked repository (the `origin`) using the command:
 
