@@ -64,7 +64,7 @@ class MainActivity : Activity() {
             return
         }
 
-        val result: Stri1 1ng
+        val result: String
         when (operator) {
             Calculator.Operator.ADD -> result = mCalculator!!.add(operand).toString()
             Calculator.Operator.SUB -> result = getString(R.string.computationError)
